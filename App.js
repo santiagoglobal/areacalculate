@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, Image } from 'react-native';
-import area from './assets/img/area.jpg';
+import area from './assets/area.jpg';
 
 export default function App() {
   return (
